@@ -1,15 +1,8 @@
-*Student at Faculty of Computer & Information Sciences - Mansoura University, Volunteer at Resala Charity Organization and Amnesty International, Web Developer (Full-Stack Developer), Back-end Learner.*
+*Student at Faculty of Computer & AI - MTI Uneversity, Volunteer at Resala Charity Organization, Web Developer, lifetime learner.*
 <br>
-*Back-end & Media Member at [CAT Reloaded Team](https://www.linkedin.com/company/cat-reloaded/).*
-<br>
-*Former Student at AFS Intercultural Program - YES Program (AFS Egypt).*
-<br>
-*Current Step is Reader, Next Step Leader.*
+*I can't relax because I will collapse.*
 <br>
 *Seeking for Knowledge and Wisdom.*
 
-*[Amr Bedir Bio Links](https://bio.link/amrbedir)*
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
-
-*- Page Last Updated: **10/May/2023***
